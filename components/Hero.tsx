@@ -53,14 +53,6 @@ export default function Hero() {
             >
               Tập thử miễn phí
             </a>
-
-            <a
-              href="#programs"
-              className="inline-flex items-center justify-center rounded-md border border-zinc-700 bg-white/5 px-7 py-4 text-sm font-bold uppercase tracking-wide text-white transition-all hover:border-white hover:bg-white/10"
-            >
-              Xem chương trình tập
-              <span className="ml-2">→</span>
-            </a>
           </div>
 
           {/* Programs */}
